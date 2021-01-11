@@ -1,5 +1,6 @@
 # Persolini
 Projekt v smeri režimsko navdahnjenih filtrov za Instagram
+Disclaimer: projekt je namenjem temu, da v uporabniku vzbudi kritičen odnos do trenutnega dogajanja po svetu, ko se pojavlja vse več totalitarnih režimov.
 
 ## Testni linki filtrov:
 Linki se odprejo z mobilno aplikacijo Instagram.
