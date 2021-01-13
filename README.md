@@ -26,6 +26,9 @@ V mapi *Demo* se nahajajo demo posnetki treh omenjenih filtrov.
 Ostale mape so projekti, ki se jih lahko odpre in ureja z aplikacijo [Spark AR Studio](https://sparkar.facebook.com/ar-studio/).
 Mapa *Persolini* vsebuje poskus združitve vseh treh filtrov v enega, ta projekt trenutno še ne deluje kot bi moral.
 
+## Kako lahko urejam projekt?
+Potrebujete program [Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/). Projekt je bil razvit v verziji studia v102, na novejših ni testiran.
+
 
 ## Licenca
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenca Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />To delo je objavljeno pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licenco Creative Commons Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 4.0 Mednarodna</a>.
