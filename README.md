@@ -3,8 +3,16 @@ Projekt v smeri režimsko navdahnjenih filtrov za Instagram
 
 Disclaimer: projekt je namenjem temu, da v uporabniku vzbudi kritičen odnos do trenutnega dogajanja po svetu, ko se pojavlja vse več totalitarnih režimov.
 
-## Testni linki filtrov:
-Linki se odprejo z mobilno aplikacijo Instagram.
+## Linki do filtrov
+Filtri se odprejo v mobilnih aplikacijah.
+Filter Znamka je javno dostopen v [Instagramu](https://www.instagram.com/ar/536113964030560/) in na [Facebooku](https://www.facebook.com/fbcameraeffects/tryit/536113964030560/).
+
+Instagram:
+ - [Hope](https://www.instagram.com/ar/675142763179654/?ch=Zjk1NDkyMzQyNTlkMTRkZmVjYTU4NzIyNjgzYzJjN2Q%3D)
+ - [Leader](https://www.instagram.com/ar/146513057235666/?ch=OGMxNDE3Y2U4YjdlMTFkOGQ1N2Y4NzEzZmUzNGQ2Yzc%3D)
+ - [Znamka](https://www.instagram.com/ar/3622677531148644/?ch=ZDliNDkyOWMyMTE5MzMxN2IyYjdiYmZmZjYyZGYzODc%3D)
+ 
+Facebook:
  - [Hope](https://www.instagram.com/ar/675142763179654/?ch=Zjk1NDkyMzQyNTlkMTRkZmVjYTU4NzIyNjgzYzJjN2Q%3D)
  - [Leader](https://www.instagram.com/ar/146513057235666/?ch=OGMxNDE3Y2U4YjdlMTFkOGQ1N2Y4NzEzZmUzNGQ2Yzc%3D)
  - [Znamka](https://www.instagram.com/ar/3622677531148644/?ch=ZDliNDkyOWMyMTE5MzMxN2IyYjdiYmZmZjYyZGYzODc%3D)
@@ -12,13 +20,13 @@ Linki se odprejo z mobilno aplikacijo Instagram.
 ## Nekaj o filtrih
 
 ### Hope
-Filter je navdihnil trobarven plakat Baracka Obame z napisom "Hope".
+Filter je navdihnil trobarven plakat Baracka Obame z napisom "Hope". Filter je namenjen vertikalni rabi.
 
 ### Leader
-Filter temelji na sliki, na kateri je uprizorjen španski diktator Francisco Franco.
+Filter temelji na sliki, na kateri je uprizorjen španski diktator Francisco Franco. Filter je namenjen horizontalni rabi, idealno s pomočjo tretje osebe.
 
 ### Znamka
-Filter temelji na znamki iz USSR, na kateri je obraz prvega človeka v vesolju, Jurija Gagarina.
+Filter temelji na znamki iz USSR, na kateri je obraz prvega človeka v vesolju, Jurija Gagarina. Filter je neodvisen od zasuka naprave.
 
 ## Zgradba projekta
 
