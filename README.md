@@ -8,14 +8,13 @@ Filtri se odprejo v mobilnih aplikacijah.
 Filter Znamka je javno dostopen v [Instagramu](https://www.instagram.com/ar/536113964030560/) in na [Facebooku](https://www.facebook.com/fbcameraeffects/tryit/536113964030560/).
 
 Instagram:
- - [Hope](https://www.instagram.com/ar/675142763179654/?ch=Zjk1NDkyMzQyNTlkMTRkZmVjYTU4NzIyNjgzYzJjN2Q%3D)
- - [Leader](https://www.instagram.com/ar/146513057235666/?ch=OGMxNDE3Y2U4YjdlMTFkOGQ1N2Y4NzEzZmUzNGQ2Yzc%3D)
- - [Znamka](https://www.instagram.com/ar/3622677531148644/?ch=ZDliNDkyOWMyMTE5MzMxN2IyYjdiYmZmZjYyZGYzODc%3D)
+ - [Hope](https://www.instagram.com/ar/883633485786528/?ch=YzMxY2EyMThjMTMzM2RjMmQ2NzU1OWZjNDBmNGE5YTQ%3D)
+ - [Leader](https://www.instagram.com/ar/188159753043280/?ch=ZDBhYmQ2ZDQxYTc2M2FiMGM2Zjg5OWRiMjliY2FjZDk%3D)
+ - [Znamka](https://www.instagram.com/ar/1767947723364642/?ch=Mzc5YWE2ZDFmMTQwMjQwNDg1MmJlMDM4ZGJhZDFjNjQ%3D)
  
 Facebook:
- - [Hope](https://www.instagram.com/ar/675142763179654/?ch=Zjk1NDkyMzQyNTlkMTRkZmVjYTU4NzIyNjgzYzJjN2Q%3D)
- - [Leader](https://www.instagram.com/ar/146513057235666/?ch=OGMxNDE3Y2U4YjdlMTFkOGQ1N2Y4NzEzZmUzNGQ2Yzc%3D)
- - [Znamka](https://www.instagram.com/ar/3622677531148644/?ch=ZDliNDkyOWMyMTE5MzMxN2IyYjdiYmZmZjYyZGYzODc%3D)
+ - [Hope](https://www.facebook.com/fbcameraeffects/testit/120097883313098/MTA0N2EwMWNjODYwOTE0MjYwZTg2OTRjMTZlMjRmZDc=/)
+ - [Znamka](https://www.facebook.com/fbcameraeffects/testit/343475653352724/OTJhMTAzMjc1ZjYwMGU1MzJhN2NlNTMxNWVhMmUzOTA=/)
 
 ## Nekaj o filtrih
 
